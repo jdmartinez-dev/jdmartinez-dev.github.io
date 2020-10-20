@@ -1,0 +1,10 @@
+@import 'menu.css' screen;
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container, .container-fluid {
+    padding: 0;
+}
