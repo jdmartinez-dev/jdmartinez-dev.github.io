@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
 .nav {
-    background-color: rgb(236, 238, 238);
+    background-color: rgba(236, 238, 238, 0.72);
+    border-bottom: 1px solid  rgba(209, 178, 226, 0.645);
+    box-shadow: -1px 1px 2px 0px #a7a7a762;
     height: 100%;
     padding: 10px 20px 10px 20px;
     width: 100%;
